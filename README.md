@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="justify">
-I'm a Geospatial Developer with a background in Geography, an MSc in GIS, and strong skill in Software Engineering. I build geospatial applications that combine spatial analysis, modern web technologies and cloud infrastructure to solve real-world location problems.
+I'm a Geospatial Engineer with a background in Geography, an MSc in GIS, and strong skill in Software Engineering. I build geospatial applications that combine spatial analysis, modern web technologies and cloud infrastructure to solve real-world location problems.
 </h3>
 
 <div>
