@@ -87,9 +87,9 @@ I'm a Geospatial Engineer with a background in Geography, an MSc in GIS, and str
 
 </p>
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Tayokanch&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Tayokanch&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tayokanch&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Tayokanch&show_icons=true&theme=)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Tayokanch&theme=)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tayokanch&layout=compact&theme=)
 
 
 
